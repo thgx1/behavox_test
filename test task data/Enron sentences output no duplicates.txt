@@ -1,0 +1,754 @@
+Text 1 : Shelley: Do you have any information on Project Max that we could use in the business plan for NNG?
+Machine Annotation 1 : NNG
+Text 2 : The address list on the memo below contains the names of all ENA Energy Operations employees who worked in the offices in Houston, Denver and Calgary on January 1st to test our systems.
+Machine Annotation 1 : ENA
+Text 3 : Mary, Jason Orta from the CEC called me to inform us that one of the generator numbers we had used was wrong.
+Machine Annotation 1 : CEC
+Text 4 : Sierra Pacific was listed as CEC 10016 and should actually have been 10036.
+Machine Annotation 1 : Sierra
+Text 5 : I have made this correction in EPMI's CEC filing and resubmitted it.
+Machine Annotation 1 : EPMI
+Machine Annotation 2 : CEC
+Human Annotation (44357992) 1 (True Positive): EPMI
+Text 6 : Steve Harris and the Transwestern Commercial Team would like to extend an invitation to our Christmas Luncheon on Wednesday, December 13, 11:30 a.m. at the Rodizio Restaurant on Westheimer and Chimney Rock.
+Machine Annotation 1 : Westheimer
+Text 7 : What does the Gingerbread Boy have on his bed?
+Machine Annotation 1 : Gingerbread
+Text 8 : I think that Robert Jones or Oxley will have to sign it instead of me, since I am not an officer.
+Machine Annotation 1 : Oxley
+Text 9 : Sheila--As we discussed, I am attaching revised versions of the ABB and GE override letters, clarifying that they dissolve only on assignment to a nonaffiliated party.
+Machine Annotation 1 : ABB
+Machine Annotation 2 : GE
+Human Annotation (45414668) 1 (False Positive): ABB
+Human Annotation (45414668) 2 (False Positive): GE
+Text 10 : I would like to set up a GISB agreement to trade with Sempra.
+Machine Annotation 1 : GISB
+Text 11 : The gist is that CEC's forecast for supply in Summer 2001 is overly optimistic, and that Ca needs to stop fooling itself.
+Machine Annotation 1 : CEC
+Text 12 : Did you notice on the spreadsheet for 3/27 they opened a new power product, US East Power Phys Firm ICAP?
+Machine Annotation 1 : East
+Machine Annotation 2 : ICAP
+Text 13 : Stinson/Vince, Some news articles.
+Machine Annotation 1 : Stinson/Vince
+Text 14 : NOTE: Circulation of the "Electricity Daily Demand Forecast" outside a Client's licensed distribution area is strictly prohibited.
+Machine Annotation 1 : Client
+Text 15 : Can we trade as Enron North America Corp. out of Japan?
+Machine Annotation 1 : Enron
+Text 16 : Please advise if ENA is ok to reference in the Confirmation.
+Machine Annotation 1 : ENA
+Machine Annotation 2 : Confirmation
+Text 17 : Steve indicated below that he talked to Ken at Frontera.
+Machine Annotation 1 : Ken
+Text 18 : Introducing NASDAQ-100 Index TIERS (sm) Principal-Protected* Trust Certificates TIERS Nasdaq-100 Principal-Protected* Trust Certificates are securities whose return is linked to the performance of the Nasdaq-100 Index.
+Machine Annotation 1 : Principal-Protected*
+Text 19 : At maturity, the Trust is scheduled to repay the entire principal amount of the certificates, plus an amount based on the return of the Nasdaq-100 Index subject to a quarterly appreciation cap of 12%.
+Machine Annotation 1 : Trust
+Machine Annotation 2 : Nasdaq-100
+Text 20 : Payment to the trust will be guaranteed pursuant to the terms of a financial guaranty insurance policy issued by Ambac Assurance Corporation.
+Machine Annotation 1 : Ambac
+Text 21 : Expected to be Aaa rating by Moody's and AAA rating by Standard & Poor's.
+Machine Annotation 1 : Moody's
+Machine Annotation 2 : AAA
+Machine Annotation 3 : Standard
+Text 22 : Enerfax GOLD NORTH AMERICA'S FREE?
+Machine Annotation 1 : Enerfax
+Text 23 : GAS, OIL, LIQUIDS & DERIVATIVES INFORMATION SOURCE Thursday, January 17 2002?
+Text 24 : When: Occurs every Monday effective 9/17/2001 until 12/30/2002 from 10:00 AM to 11:00 AM (GMT-06:00) Central Time (US & Canada).
+Machine Annotation 1 : GMT-06:00
+Machine Annotation 2 : Central
+Text 25 : Jeff and Mark, Attached please find the comments that I wish to file with the Federal Trade Commission concerning EnronOnline for their upcoming B2B workshop this coming Thursday-Friday.
+Machine Annotation 1 : EnronOnline
+Human Annotation (45414668) 1 (False Negative): Federal
+Human Annotation (45414668) 2 (True Positive): EnronOnline
+Text 26 : All: Harold Inman, an employee recently with Enron South America has finished his job there and has returned to Houston.
+Machine Annotation 1 : Enron
+Text 27 : Harold is currently seeking a new position and the Global Resource Management group is helping him network.
+Machine Annotation 1 : Global
+Text 28 : Joe Kishkill, his most current supervisor endorses we find a new position for Harold at Enron.
+Machine Annotation 1 : Enron
+Text 29 : I currently have a few opportunities available in ERCOT and WSCC trading and was wondering if you would be interested in looking at these opportunities or if you knew someone that would.
+Text 30 : Hi Stephanie, Thanks for the hard copy of the ISDA docs.
+Machine Annotation 1 : ISDA
+Human Annotation (43752651) 1 (False Positive): ISDA
+Text 31 : Included in this group is a joint offer with ENA to acquire a 50% interest in an existing small CO2 business in West Texas and a 50% interest in a grassroots CO2 project in Wyoming.
+Machine Annotation 1 : ENA
+Machine Annotation 2 : CO2
+Human Annotation (45300166) 1 (True Positive): ENA
+Human Annotation (45300166) 3 (True Positive): CO2
+Text 32 : Total initial investment for NBP would be about $28 million.
+Text 33 : This deal can go forward on its own if the Seller accepts the offer, or it can be brought into Project 20/20 if that deal closes.
+Machine Annotation 1 : Seller
+Text 34 : October 22, 2001 The previously posted outage of the Panhandle Eastern (PEPL) Interconnect on the Lebanon Lateral (Meter station 74902) has been delayed.
+Machine Annotation 1 : PEPL
+Human Annotation (45161628) 1 (False Negative): Panhandle
+Human Annotation (45161628) 2 (False Negative): Eastern
+Human Annotation (45161628) 3 (False Positive): PEPL
+Text 35 : The work will now take place beginning on Wednesday, October 31 at 9:00 AM and will be completed on Friday, November 2 at 7:00 PM.
+Text 36 : There will be no gas entering the system from PEPL during this outage.
+Machine Annotation 1 : PEPL
+Text 37 : Texas Eastern (TE) is working with CMS to pre-inject customer gas into the system prior to the outage to mitigate any affect to TE shippers.
+Machine Annotation 1 : Texas
+Machine Annotation 2 : TE
+Text 38 : Texas Eastern will provide updates to this outage as they become available.
+Machine Annotation 1 : Texas
+Text 39 : To unsubscribe, login to the E-mail Notification Subscription page at http://www.link.duke-energy.com/script2/Notification.asp uncheck the appropriate checkbox, and click the Submit button.
+Machine Annotation 1 : Submit
+Text 40 : Let's meet at Christi's desk on ebS5 and find a conference room.
+Machine Annotation 1 : Christi
+Text 41 : I also am assuming that the Henry Hub products have been moved to FT East who is now managing them.
+Machine Annotation 1 : Henry
+Human Annotation (45414668) 1 (True Positive): Henry
+Human Annotation (45414668) 2 (False Negative): FT
+Human Annotation (33519110) 3 (False Negative): East
+Text 42 : The Sequent payment should go today and the Dominion payment on Jan 31.
+Machine Annotation 1 : Dominion
+Text 43 : CALENDAR ENTRY: APPOINTMENT Description: ESA Review?
+Machine Annotation 1 : ESA
+Text 44 : Chip is assigned to North America primarily but we asked him to get up to speed on the India situation in case a new deal should arise there that requires RAC input.
+Machine Annotation 1 : RAC
+Text 45 : He is a sharp guy with lots of project finance experience and also worked in London for Eastern.
+Machine Annotation 1 : Eastern
+Text 46 : I forgot about the HPL people.
+Text 47 : I think we already have too many people and management may be waiting to see how many HPL people are staying with Enron on the trading side.
+Machine Annotation 1 : HPL
+Machine Annotation 2 : Enron
+Text 48 : I still need to get the delivery locations for the CSW deal.
+Text 49 : Ben, Attached you will find a PPT slide with the requested aerial photo scanned in.
+Machine Annotation 1 : PPT
+Text 50 : MILLS,SCOTT R has suggested reviewers and submitted them for your approval.
+Machine Annotation 1 : MILLS
+Text 51 : You may review/modify this list of reviewers by logging on to PEP at http://pep.corp.enron.com and going to Supervisor Services.
+Machine Annotation 1 : Supervisor
+Text 52 : Please remember, no feedback can be completed on MILLS,SCOTT R until you have approved the list.
+Machine Annotation 1 : MILLS
+Text 53 : Marie, I have checked livelink and cannot find anything pertaining to BNP/EML.
+Machine Annotation 1 : BNP/EML
+Human Annotation (45364130) 1 (False Positive): BNP/EML
+Text 54 : Plan now to attend SHRM's most highly attended seminar!
+Machine Annotation 1 : SHRM
+Text 55 : I am working on a CRRA deal re fuel cells.
+Machine Annotation 1 : CRRA
+Text 56 : Attached for your review and comments is a revised version of the TransPecos LOI, which I believe reflects our discussions this morning.
+Machine Annotation 1 : TransPecos
+Text 57 : Find the one for you at Yahoo!
+Machine Annotation 1 : Yahoo
+Text 58 : Nelson, FBI took my laptop.
+Machine Annotation 1 : FBI
+Text 59 : Please note that Sally Beck is co-head of CommodityLogic.
+Machine Annotation 1 : CommodityLogic
+Text 60 : Hi Debra, Nicor Gas Company wants to amend our base contract (their form of agreement) to add some "netting language".
+Machine Annotation 1 : Nicor
+Text 61 : Please review ASAP and let me know what you think.
+Machine Annotation 1 : ASAP
+Text 62 : Did you get ahold of Mr. Hunt from Nicor yet.
+Machine Annotation 1 : Nicor
+Text 63 : EY 6926 EY 8108 EY 8531 EY 9343 EQ 6930.1, .2 ECT does NOT have a master with The Dow Chemical Company.
+Machine Annotation 1 : The
+Text 64 : Tana: Since credit has restricted both Peoples Gas and City of Talahassee, these CPs are restricted by legal as well.
+Machine Annotation 1 : Peoples
+Text 65 : I guess we need to work this out with the AEP people.
+Text 66 : PEP - weekend support For assistance with any PEP problems this weekend please contact the Houston PEP Support desk on +1 713-853-4777 Option 4 for 24 hour assistance.
+Machine Annotation 1 : PEP
+Human Annotation (45351342) 1 (False Negative): PEP
+Human Annotation (45351342) 2 (True Positive): PEP
+Human Annotation (45351342) 3 (False Negative): PEP
+Text 67 : I got my offer to come back to Enron & those are the areas that Associates rotate through.
+Machine Annotation 1 : Enron
+Text 68 : EFF_DT PORTFOLIO_ID DOWN95 2/15/01 MANAGEMENT-COAL 0 2/15/01 MANAGEMENT-CRD 0 2/15/01 MANAGEMENT-GAS 600,498.
+Machine Annotation 1 : EFF_DT
+Text 69 : In addition to the issues about setting up the shell corporation, what are the rules for the Enron affliliates who trade on line?
+Machine Annotation 1 : Enron
+Text 70 : EOTT is concerned about credit issues for the shell corporation.
+Machine Annotation 1 : EOTT
+Text 71 : How do you handle that with the other Enron affiliates?
+Machine Annotation 1 : Enron
+Text 72 : How does the contract get from the Enron affiliate to EOTT--is the contract assigned or do we do back to back deals?
+Machine Annotation 1 : Enron
+Machine Annotation 2 : EOTT
+Text 73 : Hector, this is to verify our conversation regarding the increase in annual base salary for Jesse Villarreal from $50,160 to $56,000.
+Machine Annotation 1 : Hector
+Human Annotation (45256462) 1 (True Positive): Hector
+Text 74 : Jesse is a Specialist in cost center 105603 on the Logistics East scheduling team reporting to Manager Ed Terry.
+Machine Annotation 1 : Jesse
+Machine Annotation 2 : Specialist
+Machine Annotation 3 : Logistics
+Text 75 : Please plan to attend a reception and dinner for those Analysts and Associates due to rotate in the near future who have made significant contributions to Enron North America.
+Machine Annotation 1 : Associates
+Machine Annotation 2 : Enron
+Text 76 : The function will be hosted by the Office of the Chairman at Morton's Steak House located at 5000 Westheimer on July 27, 2000.
+Machine Annotation 1 : Morton
+Text 77 : This will be an informal gathering to discuss the progress of ENA and an open forum to interact with the management team on a one on one basis.
+Machine Annotation 1 : ENA
+Text 78 : Any GCP adjustments will be highlighted in red.
+Text 79 : Expect a GCP Response on Clickpaper approvals, CP 03-12a-01, tomorrow, 3/15/01 by 5pm.
+Machine Annotation 1 : GCP
+Text 80 : The new product will be a day product like our current Katy and HSC Pool products, so it will be a fixed price product for next day gas delivered at the Corpus location.
+Machine Annotation 1 : HSC
+Text 81 : Joe: Thanks for taking the time to talk with me regarding the opportunities at Cinergy.
+Machine Annotation 1 : Cinergy
+Text 82 : I would like to continue trading, but also learn Cinergy's assets to better understand how to effectively trade around these types of assets.
+Machine Annotation 1 : Cinergy
+Text 83 : He also sounded interested in the possibility of our making some sort of anonymous inquiry at FERC (if such a thing is possible) on the issue.
+Machine Annotation 1 : FERC
+Human Annotation (45414668) 1 (False Positive): FERC
+Text 84 : At the very least, I hope he will show it to the Kinder Morgan lawyers.
+Machine Annotation 1 : Kinder
+Text 85 : Also, I am attaching the ENA telephone contact list.
+Machine Annotation 1 : ENA
+Text 86 : Stan has asked me if I would like to attend.
+Machine Annotation 1 : Stan
+Text 87 : Your fax of the signed NDA did not come through all the way, I only got part of the first page.
+Machine Annotation 1 : NDA
+Text 88 : Could you please refax back the whole document so I can get it signed by Enron.
+Machine Annotation 1 : Enron
+Text 89 : At this meeting you'll be able to pick up your newly designed for 2000 Enron jersey.
+Machine Annotation 1 : Enron
+Text 90 : Our guests are Jeff Nielsen and Trey Richardson, West U. Schwinn.
+Machine Annotation 1 : West
+Text 91 : We've obviously already talked about the CSA, but we need to put together a letter of intent.
+Machine Annotation 1 : CSA
+Text 92 : Question: Is there a tax/CIAC issue with Citizens reimbursing us for this change?
+Machine Annotation 1 : CIAC
+Text 93 : The above excel files are at G:Common/LNG/Hoegh Galleon.
+Text 94 : The deal got booked to Oil-NG-Hedge-Spec.
+Machine Annotation 1 : Oil-NG-Hedge-Spec
+Text 95 : Kaye: Would you please schedule a meeting with John Suttle to discuss Harvard.
+Machine Annotation 1 : Harvard
+Text 96 : Wal-Mart is opening a new store here so I applied and got a job.
+Machine Annotation 1 : Wal-Mart
+Text 97 : Make a great connection at Yahoo!
+Machine Annotation 1 : Yahoo
+Text 98 : Attached is a draft of the letter that we propose to send to the CPUC regarding the AL2837 proceeding in which SoCal Gas is proposing changes to its "windowing" criteria.
+Machine Annotation 1 : CPUC
+Machine Annotation 2 : SoCal
+Text 99 : I have looked at the policy and have no major issue with it, except to the extent that it may be either duplicative or different from policies that Corp. is looking to implement.
+Machine Annotation 1 : Corp.
+Text 100 : However, if you'd rather not receive future e-mails of this sort from Amazon.com, please visit your Amazon.com account page .
+Machine Annotation 1 : Amazon.com
+Machine Annotation 2 : Amazon.com
+Text 101 : Matthew Dawson 12/13/2000 12:33 PM To: Tana Jones/HOU/ECT@ECT cc: Subject: Re: NDA-Credit2B.com This is done- the fax has been sent successfully.
+Machine Annotation 1 : NDA-Credit2B.com
+Text 102 : Attached is an updated status report regarding ENA Litigation.
+Text 103 : Mark, Hello, my name is Zach Streight and I am working in Brad Richter's group trying to monetize DealBench.
+Machine Annotation 1 : DealBench
+Text 104 : Debra - Please prepare a Master Firm draft per the attached.
+Machine Annotation 1 : Master
+Text 105 : Mariella, Below is the pricing for ProCaribe's LPG purchase.
+Machine Annotation 1 : Mariella
+Machine Annotation 2 : ProCaribe
+Machine Annotation 3 : LPG
+Human Annotation (45364130) 1 (True Positive): ProCaribe
+Human Annotation (45364130) 2 (False Positive): LPG
+Text 106 : The two fixed price tranches of 2600MT and 1768 MT represent volumes sold and yet-to-be-sold during the time frame April 16th to May 31st.
+Machine Annotation 1 : 2600MT
+Human Annotation (45302262) 1 (True Positive): 2600MT
+Human Annotation (45302262) 2 (False Negative): 1768
+Text 107 : Note that ProCaribe's revenue stream for the portion of LPG sold during the second half of April (~1400 MT) was based on Mont Belvieu of $0.543/gallon.
+Machine Annotation 1 : ProCaribe
+Machine Annotation 2 : LPG
+Text 108 : ProCaribe's revenue for volumes sold in May (~2900 MT) will be based on the average Mont Belvieu price for the entire month.
+Machine Annotation 1 : ProCaribe
+Machine Annotation 2 : ~2900
+Text 109 : You can also check with David Tucker at Bracewell.
+Machine Annotation 1 : Bracewell
+Text 110 : I know you have been working with Barry T. if his headcount is different on the Marketing staff use his numbers.
+Machine Annotation 1 : Marketing
+Text 111 : The first is a draft of an "FYI from GPG" to explain the why behind the reorg.
+Machine Annotation 1 : FYI
+Machine Annotation 2 : GPG
+Text 112 : Based on the information you provided us, we have approved your account for Level V options trading.
+Machine Annotation 1 : Level
+Text 113 : Talked to Edison about getting a meeting with Craver.
+Machine Annotation 1 : Craver
+Text 114 : Here is the Reserve schedule.
+Machine Annotation 1 : Reserve
+Text 115 : There were no reserves for the Financial, Central, East, or Texas desks.
+Machine Annotation 1 : Financial
+Text 116 : Jeff, I don't know if you're available, but if you've got a spare minute, it'd probably be a good idea for us to rally by phone before the Hearing.
+Machine Annotation 1 : Hearing
+Text 117 : Sean: As i am now in the power trading group, if any changes need to be made to the financial GTC's for this counterparty, please contact either Mark Taylor or Sara Shackleton.
+Machine Annotation 1 : GTC
+Text 118 : See below for when we receive a worksheet from Credit for Delphi Automotive.
+Machine Annotation 1 : Delphi
+Text 119 : DOUGLAS GILBERT-SMITH, The PEP system closes on Friday, May 25, 2001.
+Machine Annotation 1 : PEP
+Human Annotation (45364130) 1 (False Positive): PEP
+Text 120 : Please log into PEP at http://pep.enron.com and select Supervisor Services from the Main Menu to approve your employees' reviewers.
+Machine Annotation 1 : Supervisor
+Human Annotation (45224018) 1 (False Negative): PEP
+Human Annotation (45224018) 2 (False Positive): Supervisor
+Text 121 : Actually, he would also be a good fit for helping to think ways to analyze our Enron On-line data.
+Machine Annotation 1 : Enron
+Text 122 : Mark Richard Grove 10/04/2000 10:23 AM To: Mark Haedicke cc: Subject: January Board Meeting Mark, How does it look for Enron hosting the January Board meeting in London?
+Machine Annotation 1 : Enron
+Machine Annotation 2 : January
+Human Annotation (44985688) 1 (True Positive): Enron
+Human Annotation (45302262) 1 (True Positive): Enron
+Human Annotation (45160623) 1 (True Positive): Enron
+Human Annotation (45160623) 2 (False Positive): January
+Human Annotation (45419795) 1 (True Positive): Enron
+Text 123 : The buyers broker just called to say that Bobinchuck left her a message to confirm that the closing is scheduled for Nov. 5 and 6.
+Machine Annotation 1 : Bobinchuck
+Text 124 : FYI, we decided to extend the deadline for submitting comments to Wednesday noon, September 20.?
+Machine Annotation 1 : FYI
+Text 125 : Louis - This was a mutual termination and all of the deals referenced in the termination agreement are financial deals.
+Machine Annotation 1 : Louis
+Text 126 : He is currently located in India (our DPC unit) and is looking for a permanent position with Enron in Houston for family reasons (his wife is from Houston and has a family here).
+Machine Annotation 1 : DPC
+Machine Annotation 2 : Enron
+Human Annotation (45163668) 1 (False Positive): DPC
+Human Annotation (45163668) 2 (True Positive): Enron
+Text 127 : Your message To: Tim Collins (E-mail) Subject: Final November Purchase Sent: 12/17/2001 9:50 AM was read on 12/17/2001 1:18 PM.
+Text 128 : Whether we want a bilateral or Enron Protected Counterparty form 3.
+Machine Annotation 1 : Enron
+Text 129 : Thank you for making your travel plans with Travelocity.com.
+Machine Annotation 1 : Travelocity.com
+Text 130 : Please find attached the confirmation for gas sales of Socal Imbalance Payback at the California Border of 20,000mmbtu for November 27, 2001 for $2.39.
+Machine Annotation 1 : Socal
+Text 131 : Just to let you know what Border sent out.
+Machine Annotation 1 : Border
+Text 132 : For example now that LNG has moved under Shankman Lavo should take the oversight role rather than me.
+Machine Annotation 1 : LNG
+Human Annotation (45409983) 1 (False Positive): LNG
+Text 133 : I have a call in to CPA, go ahead and nom 2 on K#66940.
+Machine Annotation 1 : K#66940
+Human Annotation (45351342) 1 (False Negative): CPA
+Human Annotation (45351342) 2 (False Positive): K#66940
+Text 134 : Have additional 1,285 bought from EES at A06 for COH.
+Text 135 : I will send latest guess for COH Jan 1 later, real forcast 12/31 AM.
+Text 136 : Attached is an updated Interstate Pipeline Capacity to California Report with changes and additions highlighted.
+Machine Annotation 1 : Interstate
+Machine Annotation 2 : California
+Human Annotation (45189099) 1 (False Negative): Interstate
+Human Annotation (45189099) 2 (False Positive): California
+Text 137 : Sara, I asked Simon for a schedule for all of the Credit trades which are in the name of ECT Investments Inc and North America.
+Machine Annotation 1 : Credit
+Machine Annotation 2 : ECT
+Text 138 : In order to meet the May 25th deadline for completed feedback... All Employees - Sign into PEP and select your Reviewers.
+Text 139 : All Supervisors - Sign into PEP and approve Reviewers for your employees.
+Text 140 : Darron talked the higher ups here into making me the business controller for the Central desk.
+Machine Annotation 1 : Darron
+Machine Annotation 2 : Central
+Human Annotation (44985688) 1 (True Positive): Darron
+Text 141 : I have a couple of questions so I can wrap up the LOI: We refer to licensed Fuel Cell Energy equipment.
+Machine Annotation 1 : LOI
+Human Annotation (45409983) 1 (False Negative): Fuel
+Text 142 : Do we expect to have ONE EPC contract, or several?
+Text 143 : I created deal 159513 to capture the IT gas we are flowing on IROQ for Jan and Feb.
+Machine Annotation 1 : IROQ
+Text 144 : Schedule gas on our IT contract from Waddington to Wright 2.
+Machine Annotation 1 : Waddington
+Text 145 : Schedule gas on our IT contract from Waddington to Pleasant Valley 4.
+Machine Annotation 1 : Waddington
+Text 146 : FYI I am currently out of books.
+Machine Annotation 1 : FYI
+Text 147 : Dear Mr Kaminski, Today is YOUR chance to receive a subscription to CI magazine for FREE!
+Machine Annotation 1 : CI
+Text 148 : Please click now to register to secure your free monthly copies: http://www.ci-online.co.uk/default.asp?page=/info/freesubscription2.asp?source=0215E Containerisation International magazine is your industry's most respected and popular monthly freight and logistics publication, and it is available free to certain individuals.
+Machine Annotation 1 : Containerisation
+Text 149 : Register today for your free subscription to Containerisation International magazine and receive every month a strategic global view of the liner shipping market.
+Machine Annotation 1 : Containerisation
+Text 150 : If you have any comments, please contact Ken Wong at Kenneth.Wong@gm.com or 313 974-1348.
+Machine Annotation 1 : Kenneth.Wong@gm.com
+Text 151 : If I were Mr. Chan I would write to Reuters to correct the statement about his attendance.
+Machine Annotation 1 : Reuters
+Text 152 : Shelley--looks good to me.
+Machine Annotation 1 : Shelley
+Text 153 : Accordingly, I do not think you need to freeze Japanese Cos. from bandwidth.
+Machine Annotation 1 : Japanese
+Text 154 : Seems to me that L/C's are the way to go then, rather than asking for cash or another asset as collateral.
+Machine Annotation 1 : L/C's
+Human Annotation (45351342) 1 (False Positive): L/C's
+Text 155 : As you can imagine, most other extenders of credit are willing to take the bank's L/C in lieu of a lien on a hard asset.
+Machine Annotation 1 : L/C
+Human Annotation (45163668) 1 (False Positive): L/C
+Text 156 : Russell Diamond 01/08/2001 06:42 PM To: Mark Taylor/HOU/ECT@ECT cc: Subject: Re: ISDA Collateral Question Mark, Letters of Credit are available under this Credit Facility.
+Machine Annotation 1 : ISDA
+Text 157 : Please let me know your thoughts and if you need any additional information as the originator in EES is calling for me.
+Machine Annotation 1 : EES
+Text 158 : Harry, Today's live auction for Northern Border Pipeline's procurement of line pipe was quite a success!
+Machine Annotation 1 : Harry
+Machine Annotation 2 : Northern
+Human Annotation (45302262) 1 (True Positive): Northern
+Text 159 : Please note that we earned $52,500 for this auction and are on track to do another auction for NBPL on 1/30 for a $20,000 fee.
+Text 160 : California - since Direct Access is suspended, we would need to evaluate that the assignment would void our contract ( at least one commissioner at the PUC is still trying to further limit DA ).
+Machine Annotation 1 : Direct
+Text 161 : Hey we are going to Truluck's for all you can eat stone crab claws tonight in honor of my 32nd birthday.
+Machine Annotation 1 : Truluck
+Text 162 : Kelly, I have not provided you with an updated list, so I hope you used my one from last year--it should suffice.
+Machine Annotation 1 : Kelly
+Text 163 : Therefore, I will attend the Board meeting, but will not stay to write notes.
+Machine Annotation 1 : Board
+Text 164 : Attached is the amendment to the Dynegy Guaranty for Nicor Energy, L.L.C., which adds financial transactions to the existing Guaranty.
+Machine Annotation 1 : Nicor
+Text 165 : Per Ryan he is missing 3 sales deals (Sales to AEP by HPL or ENA ), @ WAHA Hub, that he stated, per his understanding, Genaro is not reflecting under ENA.
+Machine Annotation 1 : AEP
+Machine Annotation 2 : HPL
+Machine Annotation 3 : ENA
+Machine Annotation 4 : ENA
+Text 166 : I don't reflect any 05/01 sales to AEP in Unify.
+Machine Annotation 1 : AEP
+Human Annotation (45351342) 1 (True Positive): AEP
+Human Annotation (45351342) 2 (False Negative): Unify
+Text 167 : When: Tuesday, February 05, 2002 2:00 PM-3:00 PM (GMT-06:00) Central Time (US & Canada).
+Machine Annotation 1 : Central
+Text 168 : Tracy, 10,000 MMBTU/D of incremental capacity from LaPlata to Gallup.
+Machine Annotation 1 : Tracy
+Machine Annotation 2 : Gallup
+Text 169 : FYI........ Posted 6/13/01 Toby TW team, please talk with your shippers to let them know the posting is out on the WEB even though they are getting an email.
+Machine Annotation 1 : FYI
+Machine Annotation 2 : 6/13/01
+Human Annotation (44985688) 1 (True Positive): FYI
+Human Annotation (44985688) 2 (False Positive): 6/13/01
+Human Annotation (44985688) 3 (False Negative): Toby
+Human Annotation (44985688) 4 (False Negative): TW
+Text 170 : Gabrielle Hagele, UBS Warburg, will be in Portland on Friday, February 8, 2002 to present information on UBS benefits for those who missed the previous information sessions.
+Machine Annotation 1 : UBS
+Human Annotation (45364130) 1 (False Negative): UBS
+Human Annotation (45364130) 2 (False Negative): Warburg
+Human Annotation (45364130) 3 (True Positive): UBS
+Text 171 : I have spoken with Jorge Rojas of PEMEX today and he is will fax translated financial statements for MGI either this afternoon or in the morning.
+Machine Annotation 1 : PEMEX
+Machine Annotation 2 : MGI
+Human Annotation (45351342) 1 (True Positive): PEMEX
+Human Annotation (45351342) 2 (False Positive): MGI
+Text 172 : With the flows almost doubling I would thing Agave should pay for this.
+Machine Annotation 1 : Agave
+Text 173 : FYI The list of the delegates from Petronas.
+Machine Annotation 1 : FYI
+Human Annotation (45302262) 1 (False Negative): Petronas
+Text 174 : Huber At the request of Gerald Nemec, I am forwarding to you the attached Master Firm Purchase/Sale Agreement--Sample Contract for review.
+Machine Annotation 1 : Master
+Human Annotation (44985688) 1 (False Negative): Huber
+Human Annotation (44985688) 2 (False Negative): Gerald
+Text 175 : Please find attached our Weekly Report (9th November 2000) for your information and perusal.
+Machine Annotation 1 : Weekly
+Human Annotation (45189099) 1 (False Negative): perusal
+Text 176 : Dennis will update us if he thinks more time is required.
+Machine Annotation 1 : Dennis
+Text 177 : The MAC clauses are attached to the ISDA Master Agreement.
+Machine Annotation 1 : MAC
+Human Annotation (45224018) 1 (True Positive): MAC
+Human Annotation (45224018) 2 (False Negative): ISDA
+Text 178 : Jim, Attached is the file that contains the correlation analysis between the NBSK price and the price for paper grades.
+Machine Annotation 1 : NBSK
+Human Annotation (45364130) 1 (False Positive): NBSK
+Text 179 : Hello Everyone, Scott and I recently met with the DC law firm of Swidler, Berlin as part of the on-going discussions around forming a CLEC.
+Machine Annotation 1 : CLEC
+Human Annotation (44985688) 1 (False Negative): Swidler
+Human Annotation (44985688) 2 (True Positive): CLEC
+Text 180 : We asked for an analysis that looks at a couple of our products in a sampling of states to see if they would, in fact, trigger the requirement that we form a CLEC.
+Machine Annotation 1 : CLEC
+Text 181 : Swidler, Berlin produced the attached memo which looks at Florida, Illinois and New York.
+Machine Annotation 1 : Swidler
+Text 182 : On behalf of the Enron Litigation Unit, I would like to thank you for your enthusiastic response to our November 9, 2000 CLE in-house ethics seminar.
+Machine Annotation 1 : CLE
+Human Annotation (45364130) 1 (False Positive): CLE
+Text 183 : All of us in the Unit look forward to seeing you on November 9.
+Machine Annotation 1 : Unit
+Text 184 : Yes I would like to attend meeting regarding NRG deal and let's have a position meeting this afternoon at 4:00.
+Text 185 : I will keep my ears open for Zone J and G markets.
+Machine Annotation 1 : Zone
+Text 186 : Katherine Tew Darras joins the ISDA New York office on November 12 as Assistant General Counsel, reporting to Kimberly Summe.
+Machine Annotation 1 : ISDA
+Machine Annotation 2 : Kimberly
+Text 187 : Katherine, a Canadian, has worked for four years as an associate with Salans Hertzfield Heilbronn Christy & Viener in New York, as part of the Corporate and Financial Institutions group.
+Machine Annotation 1 : Katherine
+Text 188 : Before that, she worked at Canadian Imperial Bank of Commerce in Toronto.
+Machine Annotation 1 : Canadian
+Text 189 : Two remaining questions: - If Nailia moves across to EBS 100% (or even 50%) at end of year, who replaces her on cross border power and other EC work?
+Machine Annotation 1 : EC
+Human Annotation (44985688) 1 (False Negative): EBS
+Human Annotation (44985688) 2 (True Positive): EC
+Text 190 : I know you will add your own spin before sending it on to Cordes.
+Machine Annotation 1 : Cordes
+Text 191 : As requested, please see the attached sample of a Master Firm Purchase/Sale Agreement along with a GISB for your review.
+Machine Annotation 1 : GISB
+Text 192 : EOL has prices in all markets through 2003 which should be all you need to perform your analysis.
+Text 193 : Paul, Attached is a link to the OFAC website, which indicates that Serbia and Montenegro are still sanctioned.
+Machine Annotation 1 : Paul,
+Text 194 : A 2:00 pm central time conference call has been scheduled to discuss the most recent analytical results from the Topock Lateral PCB sampling.
+Machine Annotation 1 : Topock
+Text 195 : Bob Iverson's name could not be found in tha Lotus directory but has been contacted via phone and will be in attendence.
+Machine Annotation 1 : Lotus
+Text 196 : We are sure Jack Anthony will bring success and pride to the Lavarato name and hold the name high for years to come.
+Machine Annotation 1 : Lavarato
+Text 197 : I assume you will communicate with Underwriting and IV personnel about the philosophy of the change and implementation.
+Machine Annotation 1 : Underwriting
+Machine Annotation 2 : IV
+Human Annotation (45414668) 1 (True Positive): Underwriting
+Human Annotation (45414668) 2 (False Positive): IV
+Text 198 : He used to be an FX trader.
+Machine Annotation 1 : FX
+Human Annotation (45351342) 1 (False Positive): FX
+Text 199 : DETM's proposal is reasonably clear: a new cap would be set whenever the proxy index exceeds 110% (or goest below 90%) of the current cap.
+Machine Annotation 1 : DETM
+Text 200 : Even TFG did not raise that issue in its comments.
+Text 201 : Here is the report in Model office.
+Machine Annotation 1 : Model
+Text 202 : Do not verify the content of the data , this is Model Office data that has not been refreshed from Production.
+Machine Annotation 1 : Model
+Text 203 : Also attached is the updated Groups document.
+Machine Annotation 1 : Groups
+Text 204 : Code: 111756 Carol Hudson, Executive Assistant Independent Energy Producers Assn.
+Machine Annotation 1 : Independent
+Text 205 : Corry, Don, Theresa and Tom.
+Machine Annotation 1 : Corry
+Text 206 : I have asked OATI to reduce the number of accounts from 40 to 10 to reduce the costs for the estate.
+Machine Annotation 1 : OATI
+Text 207 : Therefore I recommend we go down to the following accounts Enron01-10.
+Machine Annotation 1 : Enron01
+Text 208 : Scott: I have a call scheduled with Martin for tomorrow morning to discuss these CFTC issues.
+Machine Annotation 1 : CFTC
+Text 209 : Hello everyone, Attached is the market wrap for the week of 11/09.
+Machine Annotation 1 : Attached
+Text 210 : I've been trying to talk with Jo and will do so this Wednesday regarding transportation on the KB line to NNG/TW Gray.
+Machine Annotation 1 : NNG/TW
+Text 211 : As both parties continue to explore the issues which we discussed yesterday, would you like to send us Harvard's form of guaranty?
+Machine Annotation 1 : Harvard
+Text 212 : Here is Staff's first set of data requests for the State Water Contractors and the Metropolitan Water District in WordPerfect and Rich Text Formats.
+Machine Annotation 1 : WordPerfect
+Machine Annotation 2 : Rich
+Text 213 : Please forward our ENA GISB draft and the SAMPLE Master to Brad Dixson with short transmittal letter.
+Machine Annotation 1 : ENA
+Text 214 : The company is Kansas Gas.
+Machine Annotation 1 : Kansas
+Text 215 : Enron North America had some summer clerks this summer.
+Machine Annotation 1 : Enron
+Text 216 : Debbie, I would like to have access to the VAR reports in RisktRac.
+Machine Annotation 1 : VAR
+Machine Annotation 2 : RisktRac
+Text 217 : I am responsible for preparing the Gas Benchmark and the VAR report that is given to ENA management each morning.
+Machine Annotation 1 : VAR
+Machine Annotation 2 : ENA
+Text 218 : Therefore I already have access to the VAR information.
+Machine Annotation 1 : VAR
+Text 219 : The message they are stressing is that FERC is injecting much needed certainty.
+Machine Annotation 1 : FERC
+Human Annotation (45163668) 1 (False Positive): FERC
+Text 220 : Howzabout we invite the pool to the napa golf course (everyone pays their own way) and have a scramble, or something?
+Machine Annotation 1 : Howzabout
+Text 221 : Cameron Sellers Vice President, Business Development PERFECT 1860 Embarcadero Road - Suite 210 Palo Alto, CA 94303 cameron@perfect.com 650.798.3366 (direct dial) 650.269.3366 (cell) 650.858.1095 (fax) ?
+Machine Annotation 1 : Business
+Text 222 : Attached is the 2000 Weekly Cost reports.
+Machine Annotation 1 : Weekly
+Text 223 : Theresa, New wiring instructions.
+Machine Annotation 1 : Theresa
+Text 224 : Weil called to say that, as of 3:00 pm, they hadn't yet filed the motions to quash.
+Machine Annotation 1 : Weil
+Text 225 : Do you know if they ever called Baker & Botts to give them a head's up?
+Machine Annotation 1 : Baker
+Text 226 : The SJ, Perm, and Socal don't match.
+Machine Annotation 1 : Socal
+Text 227 : I've attached a Word Doc version, in case you can't get to the LiveLink URL below.
+Machine Annotation 1 : LiveLink
+Text 228 : Thanks again for the chat this PM.
+Text 229 : This one is for LV Cogen.
+Machine Annotation 1 : LV
+Text 230 : We have named him Akilesh.
+Machine Annotation 1 : Akilesh
+Text 231 : Also attached is the summary of current GPG imbalance provisions and penalties.
+Machine Annotation 1 : GPG
+Human Annotation (45364130) 1 (False Positive): GPG
+Text 232 : Note: this a revised version with a summary of the NBPL provisions included.
+Machine Annotation 1 : NBPL
+Human Annotation (45163668) 1 (False Positive): NBPL
+Text 233 : If you or your group have trouble printing, it may be that they moved a bunch a printers to \\nahou-psecn01v server.
+Machine Annotation 1 : \\nahou-psecn01v
+Text 234 : Laura has told me that she would like for me to get together with you in order for you to show me around the joint Enron & People's Energy website used in the Chicago office.
+Machine Annotation 1 : Enron
+Text 235 : Essie and Leon have proposed xferring Co. 1691 to your world (see below).
+Machine Annotation 1 : Essie
+Machine Annotation 2 : Leon
+Machine Annotation 3 : xferring
+Text 236 : And that Buffet ain't interested?
+Machine Annotation 1 : Buffet
+Text 237 : Someone in real estate finance I know compared what Fastow & Co. did to the FirstPlus fiasco.
+Machine Annotation 1 : Fastow
+Text 238 : I do have a one quick question.... My sources indicate that Enron has agreed to place a Megawatt-Daily Cinergy Hourly product on EOL within 2 weeks.
+Machine Annotation 1 : Enron
+Machine Annotation 2 : Megawatt-Daily
+Machine Annotation 3 : EOL
+Text 239 : The Product Short Description on the website will be as follows: US Gas Daily KatyPltTailgate Month/Year USD/MM Please advise if this does not meet with your approval.
+Machine Annotation 1 : US
+Text 240 : Thanks - Rob Enron North America Corp.
+Machine Annotation 1 : Rob
+Text 241 : This bill passed out of the Legislature and has gone to the Governor to sign.
+Machine Annotation 1 : Legislature
+Text 242 : Thanks, Oh, I have called Tri Star and I have put thier number in too.
+Machine Annotation 1 : Tri
+Text 243 : I wanted IR and PR to be aware that within the next few days the PG&E Bankruptcy team will file with the Judge Enron's current claim.
+Machine Annotation 1 : PG&E
+Text 244 : We intend to ask the Judge to Lift the Stay so that we can file at the CPUC a complaint to recoup our current receivable.
+Machine Annotation 1 : CPUC
+Text 245 : Veroinca, Below is some additional information regarding our conversation yesterday on MMS.
+Machine Annotation 1 : Veroinca
+Machine Annotation 2 : MMS
+Human Annotation (45263437) 1 (True Positive): MMS
+Text 246 : We are working with Gerald Nemec to establish a GISB to cover this deal.
+Machine Annotation 1 : GISB
+Human Annotation (45302262) 1 (False Positive): GISB
+Text 247 : We are going to use the same form that was used by Enron North America.
+Machine Annotation 1 : Enron
+Text 248 : The name of the database is New Power Contracts.
+Machine Annotation 1 : New
+Text 249 : My daughter, Lisa, is having surgery at Texas Children's hospital and I plan to spend the day with her.
+Machine Annotation 1 : Texas
+Text 250 : Dennis Lee will be the new contact person for all new POI setups and questions related to Transwestern POI's.
+Machine Annotation 1 : Transwestern
+Text 251 : Please direct all future communications regarding TW POI's to Dennis and Elizabeth.
+Machine Annotation 1 : TW
+Text 252 : Joe Stepenovitch dropped: Minnis, Marvin KCC WR and acquired: Thrash, James PHI WR Natural Gas Gridiron Address: http://fflnet.myfantasyleague.com/fflnet2001/home/0205 Questions about this site?
+Machine Annotation 1 : Minnis,
+Text 253 : Expired ROFR's - Two contract ROFR notifications expired this week (11/30/2000).
+Machine Annotation 1 : ROFR
+Machine Annotation 2 : ROFR
+Human Annotation (45302262) 1 (False Positive): ROFR
+Human Annotation (45302262) 2 (False Positive): ROFR
+Text 254 : Burlington has 15,000 MMBtu/d from Ignacio to Blanco and PG&E has 20,000 MMBtu/d from Blanco to EOT.
+Machine Annotation 1 : Burlington
+Machine Annotation 2 : PG&E
+Machine Annotation 3 : EOT
+Text 255 : Christie, Meeting at 5:30 is fine with me.
+Machine Annotation 1 : Christie,
+Text 256 : Suzanne is adding your changes to the purchase agreement now.
+Machine Annotation 1 : Suzanne
+Text 257 : When: Wednesday, February 13, 2002 1:00 PM-2:00 PM (GMT-06:00) Central Time (US & Canada).
+Machine Annotation 1 : GMT-06:00
+Machine Annotation 2 : Central
+Human Annotation (45351342) 1 (True Positive): Central
+Text 258 : Jeff, Mark Elliot in Legal here in London is concerned that there may be tax or legal implications depending on how involved in the process London gets.
+Machine Annotation 1 : Legal
+Text 259 : Tana, Attached you will find the comments on the NDA from BoozAllen Hamilton.
+Machine Annotation 1 : NDA
+Machine Annotation 2 : BoozAllen
+Text 260 : Marc - Please provide me with a brief description of the project or work that is going to be discussed with VMAC and a contact name/e-mail address.
+Machine Annotation 1 : VMAC
+Text 261 : We will do the necessary conflict check and send the agreement to VMAC directly.
+Machine Annotation 1 : VMAC
+Text 262 : Attached is a copy of a note recently circulated regarding Antitrust Training.
+Machine Annotation 1 : Antitrust
+Text 263 : EIM trades pulp and paper on the Nymex.
+Machine Annotation 1 : Nymex
+Text 264 : For the month of October Initial margin was (.3) and variation margin is .3, net zero for EIM.
+Machine Annotation 1 : EIM
+Text 265 : CGAS went into the Hawaii vehicle in March of 2001.
+Machine Annotation 1 : CGAS
+Text 266 : Rosalee -- Attached is the final version of the call memo for Dr. Lay.
+Machine Annotation 1 : Rosalee
+Text 267 : Here are the two bills of sale for the Intergen transaction.
+Machine Annotation 1 : Intergen
+Text 268 : We have received an executed Master Power Purchase and Sale Agreement dated 10/30/00 from the referenced CP.
+Machine Annotation 1 : Master
+Text 269 : Copies will be distributed to Legal and Credit.
+Machine Annotation 1 : Legal
+Text 270 : Regulatory affairs department is updating the INGAA database and are requesting the following information from you.
+Machine Annotation 1 : INGAA
+Human Annotation (45364130) 1 (False Positive): INGAA
+Text 271 : Please open your EDI mailbox to retrieve them if you have not done so already.
+Machine Annotation 1 : EDI
+Text 272 : As a reminder, payments (market payments due-ISO and GMC) for the April preliminary invoices will be due at the ISO no later than 10:00 a.m. PST on Friday, June 29, 2001.
+Machine Annotation 1 : GMC
+Machine Annotation 2 : ISO
+Text 273 : The ISO will transmit market payments due-SCs based on collections from SCs as soon thereafter as practicable.
+Machine Annotation 1 : ISO
+Human Annotation (45251863) 1 (True Positive): ISO
+Human Annotation (45251863) 2 (False Negative): SCs
+Human Annotation (45251863) 3 (False Negative): SCs
+Text 274 : Please remember how critical it is for the ISO to receive all payments by 10:00 a.m. PST on the due date and the importance of using the correct account number which appears on each invoice.
+Machine Annotation 1 : ISO
+Text 275 : They have to be prepared by the ISDA group in Houston.
+Machine Annotation 1 : ISDA
+Text 276 : A former ISDA trading attorney in Houston, Carol St. Claire, recently helped us negotiate a couple of ISDAs with Benton and Franklin PUD's.
+Machine Annotation 1 : ISDA
+Machine Annotation 2 : Franklin
+Text 277 : We should see if she can help us with this one, and if not, it has to go into the ISDA kingdom through a door opened by one Tana Jones.
+Machine Annotation 1 : ISDA
+Text 278 : Chris, Attached are driving directions to Nicor's Troy Grove site.
+Machine Annotation 1 : Nicor
+Text 279 : Per our discussions, please verify whether the site is in Illinois Power's territory.
+Machine Annotation 1 : Illinois
+Text 280 : Dave, in the Dunn Committee case, we just got a great order in our favor out of the courts.
+Machine Annotation 1 : Dunn
+Text 281 : We need to try to leverage off this order to slow down the AG.
+Machine Annotation 1 : AG
+Text 282 : While we were on the phone I sent GE an email about the issue.
+Text 283 : Zimin, Let's send flowers.
+Machine Annotation 1 : Zimin
+Text 284 : It was covered extensively in today's LA Times.
+Machine Annotation 1 : LA
+Text 285 : Real Time Traders, Morrow Power wants to take their unit to the market to get some run time before they begin selling Firm energy.
+Machine Annotation 1 : Real
+Machine Annotation 2 : Morrow
+Text 286 : So I'd like the Real Time group to sell the unit at the best price in the hourly market.
+Machine Annotation 1 : Real
+Text 287 : To sell the unit buy a BPA wheel using the accounts on the scheduling sheet.
+Machine Annotation 1 : BPA
+Text 288 : Also, I've bought reserves from BPA to make these schedules firm for the hour.
+Machine Annotation 1 : BPA
+Human Annotation (45163668) 1 (False Positive): BPA
+Text 289 : Annette, The transport statement we received from Lone Star did not show that this gas flowed.
+Machine Annotation 1 : Annette
+Machine Annotation 2 : Lone
+Text 290 : Here are some of the points Cinergy will cover on Monday.
+Machine Annotation 1 : Cinergy
+Text 291 : The Plant will eventually be sold off to investors, but we will keep the contract for gas and power.
+Machine Annotation 1 : Plant
+Text 292 : We have been working with Gabbie in Argentina for the GSA.
+Text 293 : I am in SP if you would like to discuss.
+Text 294 : I have added a swing on Mobil Oil and moved the Sale number over to the Swing column for Equistar.
+Machine Annotation 1 : Mobil
+Human Annotation (45351342) 1 (True Positive): Mobil
+Human Annotation (45351342) 2 (False Negative): Equistar
+Text 295 : Watch CNN or log on to http://CNN.com /AOL Keyword: CNN for the latest news.
+Machine Annotation 1 : CNN
+Machine Annotation 2 : CNN
+Text 296 : The Pulp Weekly Meeting scheduled by Rodney Malcolm for Monday, October 29th at 9:00am to 10:00am will be held in video conference room 30C2 (old building).
+Machine Annotation 1 : The
+Text 297 : Contact Client Services regarding PIRA report distribution and address changes at (212) 686-6808, email: support@pira.com.
+Machine Annotation 1 : Contact
+Text 298 : NOTE: Circulation of the "Gas Flash Weekly" outside a Client's licensed distribution area is strictly prohibited.
+Machine Annotation 1 : Client
+Human Annotation (45364130) 1 (False Negative): Gas
+Human Annotation (45364130) 2 (False Negative): Flash
+Human Annotation (45364130) 3 (False Negative): Weekly
+Text 299 : Please note that Maclaren Energy Inc. and Sierra Power Corp have been added to the watchlist.
+Machine Annotation 1 : Maclaren
+Machine Annotation 2 : Sierra
+Text 300 : The Outages attached below have some potential flow impact, or are points of interest.
+Machine Annotation 1 : Outages
+Human Annotation (45302262) 1 (False Positive): Outages
+Text 301 : Our internal RAC models assign roughly BB credit rating to Enron.
+Machine Annotation 1 : RAC
+Machine Annotation 2 : BB
+Machine Annotation 3 : Enron
+Human Annotation (45414668) 1 (True Positive): RAC
+Human Annotation (45414668) 2 (False Positive): BB
+Human Annotation (45414668) 3 (True Positive): Enron
+Text 302 : Twanda, would you please make this a form entitled "Canada Release" and then draft one for John Gorman?
+Machine Annotation 1 : Twanda
+Human Annotation (45405007) 1 (True Positive): Twanda
+Human Annotation (45405007) 2 (False Negative): Canada
+Text 303 : What type of income is potentially subject to w/h tax?
+Human Annotation (45310770) 1 (False Negative): What
+Text 304 : Deloitte is auditing our NGX feed process and they need to be able to check the integrity of our data.
+Machine Annotation 1 : Deloitte
+Machine Annotation 2 : NGX
+Human Annotation (45414668) 1 (True Positive): Deloitte
+Human Annotation (43752651) 2 (False Positive): NGX
+Text 305 : Do you have research regarding legality/enforceability since the 1997 global review which ENA conducted through Allen & Overy?
+Machine Annotation 1 : ENA
+Machine Annotation 2 : Allen
+Text 306 : I added Meredith's photo to the web page below last night.
+Machine Annotation 1 : Meredith
+Text 307 : I got him a subscription to Sports Illustrated and was thinking about getting him DVD player.
+Machine Annotation 1 : Sports
+Text 308 : I assume that all ENA Upstream deal makers going forward know they should be going through you.
+Machine Annotation 1 : ENA
+Human Annotation (45163668) 1 (False Positive): ENA
+Text 309 : The ERCOT Board accepted the 3 CSC 4 CM Zone model for use in commercial congestion management for 2002.
+Machine Annotation 1 : The
+Human Annotation (45251863) 1 (False Positive): The
+Human Annotation (45251863) 2 (False Negative): ERCOT
+Text 310 : Paul I am still looking for information relating to monies that El Paso paid us that should have gone to AEP.
+Human Annotation (45351342) 1 (False Negative): El
